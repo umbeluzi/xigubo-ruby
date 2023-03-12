@@ -1,20 +1,20 @@
 # lib/targers.rb
 
 module Xigubo
-  class Subscribers
-    def create_subscriber
+  class Subscriptions
+    def create_subscription
     end
 
-    def list_subscribers
+    def list_subscriptions
     end
 
-    def delete_subscriber
+    def delete_subscription
     end
 
-    def update_subscriber
+    def update_subscription
     end
 
-    def get_subscriber
+    def get_subscription
     end
 
     def create_credentials

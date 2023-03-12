@@ -5,7 +5,7 @@ module Xigubo
     def webhooks
     end
 
-    def subscribers
+    def subscriptions
     end
 
     def events

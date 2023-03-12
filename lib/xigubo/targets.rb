@@ -1,7 +1,7 @@
-# lib/subscribers.rb
+# lib/subscriptions.rb
 
 module Xigubo
-  class Subscribers
+  class Subscriptions
     # Code here
   end
 end
