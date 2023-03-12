@@ -17,10 +17,10 @@ module Xigubo
     def get_subscriber
     end
 
-    def create_token
+    def create_credentials
     end
 
-    def get_token
+    def get_credentials
     end
   end
 end
